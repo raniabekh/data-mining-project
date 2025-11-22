@@ -1,80 +1,90 @@
-📊 Data Mining Project
+📊 DATA MINING PROJECT
 
-Projet de fouille de données réalisé dans le cadre d’un module universitaire.
-L’objectif est d’explorer un dataset, le nettoyer, l’analyser, puis appliquer différents algorithmes de data mining pour extraire des connaissances utiles.
-.
+Analyse – Prétraitement – Modélisation
 
-🧭 Objectifs du projet
+A data mining project designed to explore, clean, analyze and model a dataset using modern data science techniques. The objective is to extract useful patterns and build predictive insights through exploratory analysis, preprocessing, clustering, and classification.
 
-Comprendre et analyser les données
+✨ Features
+🔎 Data Exploration
 
-Nettoyer, préparer et transformer les données
+Statistical summary
 
-Appliquer des algorithmes de data mining :
+Correlation analysis
 
-Clustering
+Distribution visualizations
 
-Classification
+Outlier detection
 
-Visualiser les résultats
+🧼 Data Preprocessing
 
-Interpréter les patterns trouvés
-📁 Structure du projet
-data-mining-project/
-│
-├── data/
-│   ├── raw/               # Données brutes
-│   └── processed/         # Données nettoyées
-│
-├── notebooks/
-│   ├── exploration.ipynb  # Analyse exploratoire
-│   └── modeling.ipynb     # Modèles de data mining
-│
-├── src/
-│   ├── preprocessing.py   # Nettoyage & transformation
-│   ├── clustering.py      # Algorithmes de clustering
-│   ├── classification.py  # Modèles de classification
-│   └── utils.py           # Fonctions utilitaires
-│
-├── reports/
-│   └── figures/           # Graphiques et résultats
-📊 Méthodologie Utilisée
-✔️ Prétraitement des données
+Handling missing values
 
-Suppression / imputation des valeurs manquantes
+Label encoding & one-hot encoding
 
-Encodage des variables catégoriques
+Normalization / Standardization
 
-Détection des outliers
+Feature engineering
 
-Normalisation & standardisation
+Removing inconsistencies
 
-Feature selection / feature engineering
+🤖 Data Mining Models
 
-✔️ Analyse exploratoire
+Clustering algorithms
 
-Statistiques descriptives
+K-Means
 
-Matrices de corrélation
+(Optional) DBSCAN / Hierarchical
 
-Visualisations : histogrammes, boxplots, heatmaps
+Classification algorithms
 
-✔️ Algorithmes appliqués
+Logistic Regression
 
-Clustering : K-Means, DBSCAN, (ou autres si utilisés)
+SVM
 
-Classification : SVM, Logistic Regression, Decision Trees…
+Decision Trees
 
-Évaluation : Accuracy, Recall, F1-score, Silhouette score
+Model evaluation
 
+Accuracy, Precision, Recall, F1-Score
 
+Silhouette score
 
+📊 Visualization
 
+Heatmaps
 
+Histograms
 
+Boxplots
 
+Scatter plots
 
+Cluster visualizations
 
-│
-├── requirements.txt       # Dépendances Python
-└── README.md
+🧠 Smart Workflow
+
+Clean code structure
+
+Modular architecture (src/)
+
+Reusable functions
+
+Clear separation between preprocessing, exploration, modeling
+
+🛠️ Tech Stack
+
+Language: Python 3.x
+
+Libraries:
+
+pandas
+
+numpy
+
+matplotlib
+
+seaborn
+
+scikit-learn
+
+Tools: Jupyter Notebook, VS Code
