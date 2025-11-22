@@ -1,11 +1,11 @@
-📊 DATA MINING PROJECT
+> ## 📊 DATA MINING PROJECT
 
 Analyse – Prétraitement – Modélisation
 
 A data mining project designed to explore, clean, analyze and model a dataset using modern data science techniques. The objective is to extract useful patterns and build predictive insights through exploratory analysis, preprocessing, clustering, and classification.
 
-✨ Features
-🔎 Data Exploration
+> ## ✨ Features
+> ## 🔎 Data Exploration
 
 Statistical summary
 
@@ -15,7 +15,7 @@ Distribution visualizations
 
 Outlier detection
 
-🧼 Data Preprocessing
+> ## 🧼 Data Preprocessing
 
 Handling missing values
 
@@ -27,7 +27,7 @@ Feature engineering
 
 Removing inconsistencies
 
-🤖 Data Mining Models
+> ## 🤖 Data Mining Models
 
 Clustering algorithms
 
@@ -49,7 +49,7 @@ Accuracy, Precision, Recall, F1-Score
 
 Silhouette score
 
-📊 Visualization
+> ## 📊 Visualization
 
 Heatmaps
 
@@ -61,7 +61,7 @@ Scatter plots
 
 Cluster visualizations
 
-🧠 Smart Workflow
+> ## 🧠 Smart Workflow
 
 Clean code structure
 
@@ -71,7 +71,7 @@ Reusable functions
 
 Clear separation between preprocessing, exploration, modeling
 
-🛠️ Tech Stack
+> ## 🛠️ Tech Stack
 
 Language: Python 3.x
 
@@ -87,4 +87,4 @@ seaborn
 
 scikit-learn
 
-Tools: Jupyter Notebook, VS Code
+> ## Tools: Jupyter Notebook, VS Code
